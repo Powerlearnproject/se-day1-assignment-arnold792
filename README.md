@@ -8,7 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
     software engineering is an approach that involves the design,development,testing and maintenance of software applications
     importance:
-    Supports business growth:The systems developed by software engineers may be made expandable to accommodate increasing numbers of people requiring the system and       increasing demand for the system. 
+    Supports business growth:The systems developed by software engineers may be made expandable to accommodate increasing numbers of people requiring the system and       increasing demand for the system.
     Improves efficiency:Software engineers can build application which could run efficiently and provides the required function. 
     Enables innovation:To elaborate, software engineers can solve difficult problems, improve and innovate. 
     Creates safe computer programs:The following are the roles that software engineers can undertake software security measures, methods of data encryption and data privacy. 
